@@ -7,10 +7,26 @@ To write a program to predict the type of species of the Iris flower using the S
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+ 1: Import Required Libraries
+
+ 2: Load the Dataset
+
+ 3: Copy Data & Drop Unwanted Columns
+
+ 4: Check Data Quality
+
+ 5: Encode Categorical Variables
+
+ 6: Define Features (X) and Target (y)
+
+ 7: Split into Training and Testing Sets
+
+8: Build and Train Logistic Regression Model
+
+ 9: Make Predictions
+
+10: Evaluate the Model 
+ 
 
 ## Program:
 ```
